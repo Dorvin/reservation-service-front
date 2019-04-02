@@ -1,0 +1,15 @@
+export const GET_ALL = 'meetings/getAll';
+export const REFRESH = 'meetings/refresh';
+export const ADD = 'meetings/add';
+export const DELETE = 'meetings/delete';
+export const UPDATE = 'meetings/update';
+export const LOGIN = 'auth/login';
+export const LOGOUT = 'auth/logout';
+export const LOGIN_FAIL = 'auth/loginFail';
+export const LOGIN_SUCCESS = 'auth/loginSuccess';
+export const CHANGE_INPUT_SINCEWHEN = 'input/sinceWhen';
+export const CHANGE_INPUT_TILWHEN = 'input/tilWhen';
+export const CHANGE_INPUT_USER = 'input/user';
+export const CHANGE_INPUT_PASSWORD = 'input/password';
+export const MODE_UPDATE = 'mode/update';
+export const MODE_ADD = 'mode/add';
